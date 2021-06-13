@@ -6,7 +6,7 @@ import { Route, BrowserRouter as Router, Switch } from 'react-router-dom'
 
 function App() {
   return (
-    <Router basename="/git-pages">
+    <Router basename={window.location.pathname || ''}>
       <div className="App">
         <Switch>
           <Route exact path="/" render={()=> <Home />}/>
