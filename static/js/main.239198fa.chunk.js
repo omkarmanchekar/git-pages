@@ -1,0 +1,2 @@
+(this["webpackJsonpgit-pages"]=this["webpackJsonpgit-pages"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),i=n.n(c),s=n(4),r=n.n(s),a=(n(3),n(0));var o=function(){return Object(a.jsx)("div",{className:"App",children:Object(a.jsx)("h1",{children:"Hiii there "})})};r.a.render(Object(a.jsx)(i.a.StrictMode,{children:Object(a.jsx)(o,{})}),document.getElementById("root"))},3:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.239198fa.chunk.js.map
